@@ -5,4 +5,4 @@ pandas
 joblib
 plotly
 scipy
-sklearn
+scikit-learn
