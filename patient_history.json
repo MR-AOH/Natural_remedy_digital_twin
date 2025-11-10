@@ -1,0 +1,72 @@
+{
+  "DEMO_001": [
+    {
+      "date": "2025-09-10T12:27:45.751281",
+      "biomarkers": {
+        "hba1c": 7.5,
+        "triglycerides": 180,
+        "hdl": 45
+      },
+      "interventions": {
+        "remedy": "green tea",
+        "duration_weeks": 4,
+        "adherence": 85
+      },
+      "response_rates": {}
+    },
+    {
+      "date": "2025-10-10T12:46:12.231176",
+      "biomarkers": {
+        "hba1c": 7.5,
+        "triglycerides": 180,
+        "hdl": 45
+      },
+      "interventions": {
+        "remedy": "green tea",
+        "duration_weeks": 8,
+        "adherence": 85
+      },
+      "response_rates": {
+        "hba1c": {
+          "absolute_change": 0.0,
+          "percent_change": 0.0
+        },
+        "triglycerides": {
+          "absolute_change": 0,
+          "percent_change": 0.0
+        },
+        "hdl": {
+          "absolute_change": 0,
+          "percent_change": 0.0
+        }
+      }
+    },
+    {
+      "date": "2025-11-10T12:47:42.541951",
+      "biomarkers": {
+        "hba1c": 7.5,
+        "triglycerides": 180,
+        "hdl": 45
+      },
+      "interventions": {
+        "remedy": "green tea",
+        "duration_weeks": 4,
+        "adherence": 85
+      },
+      "response_rates": {
+        "hba1c": {
+          "absolute_change": 0.0,
+          "percent_change": 0.0
+        },
+        "triglycerides": {
+          "absolute_change": 0,
+          "percent_change": 0.0
+        },
+        "hdl": {
+          "absolute_change": 0,
+          "percent_change": 0.0
+        }
+      }
+    }
+  ]
+}
